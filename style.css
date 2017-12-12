@@ -9,7 +9,11 @@ header {
   color: MediumAquamarine;
 }
 
+.logo span {
+  color: MediumAquamarine;
+}
 
-span {
+
+li {
   display: inline-block;
 }
