@@ -12,3 +12,7 @@ header {
 .logo {
   color: MediumAquamarine;
 }
+
+.logo p {
+  display: inline;
+}
