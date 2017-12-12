@@ -5,7 +5,7 @@ header {
   font-weight: bold;
 }
 
-li {
+span {
   display: inline-block;
 }
 
@@ -13,7 +13,7 @@ li {
   color: MediumAquamarine;
 }
 
-.header_p {
+.header_p p {
   display: inline;
   margin-left: 20px;
 }
