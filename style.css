@@ -3,17 +3,31 @@ header {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  align-items: center;
+  height: 80px;
 }
+
+
 .logo{
 	flex-grow: 1;
+	display:flex;
+	align-items: center;
 }
+.logo img {
+    width: 70px;
+    height: 60px;
+    margin-right: 12px;
+}
+
+
+
 .logo {
   color: MediumAquamarine;
 }
 
 #times span {
   color: MediumAquamarine;
-  margin: 16px 0px 0px 20px;
+
 }
 
 
