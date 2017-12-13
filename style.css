@@ -4,7 +4,9 @@ header {
   font-size: 14px;
   font-weight: bold;
 }
-
+.logo{
+	flex-grow: 1;
+}
 .logo {
   color: MediumAquamarine;
 }
